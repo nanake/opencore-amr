@@ -67,7 +67,6 @@ AC_TYPE_UINT64_T
 AC_TYPE_UINT8_T
 
 dnl Checks for library functions.
-AC_FUNC_MALLOC
 AC_CHECK_FUNCS([memset])
 
 dnl OpenCORE AMR soname version to use
